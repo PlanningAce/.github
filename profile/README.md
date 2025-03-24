@@ -43,5 +43,5 @@ TODO
 
 ## Лицензия
 
-Этот проект распространяется под лицензией MIT. Подробнее см. в [LICENSE](LICENSE).
+Этот проект распространяется под лицензией MIT. Подробнее см. в [Backend LICENSE](https://github.com/PlanningAce/backend/blob/main/LICENSE) и [Frontend LICENSE](https://github.com/PlanningAce/frontend/blob/main/LICENSE).
 
