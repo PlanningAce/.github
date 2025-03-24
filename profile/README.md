@@ -38,7 +38,7 @@ TODO
 ## Участники
 
 - **Лампа Торшеров** – бэкенд-лид ([GitHub](https://github.com/RomanQed))
-- **Эчпочмак Безповидлов** – бэкенд-дев ([GitHub]((https://github.com/sachatarba))
+- **Эчпочмак Безповидлов** – бэкенд-дев ([GitHub](https://github.com/sachatarba))
 - **Эчпочмак Повидлов** – фронтенд-машина ([GitHub](https://github.com/1qwaka))
 
 ## Лицензия
